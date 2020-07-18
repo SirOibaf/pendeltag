@@ -1,0 +1,6 @@
+black==19.10b0
+mypy==0.782
+requests==2.24.0
+pyhumps==1.6.1
+luma.oled==3.5.0
+pillow==7.2.0
